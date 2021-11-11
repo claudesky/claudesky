@@ -10,6 +10,6 @@ I am mainly a PHP & Javascript engineer with a passion for DevOps. Some of my fa
 - [Vuejs](https://vuejs.org/)
 - [Git](https://git-scm.com/)
 
-If you have any projects that need an extra hand - or just need some advice on deployment and architecture - hit me up and I'll be happy to contribute what I can.
+Get in touch and I'll be happy to help.
 
 Let's learn 🔭 and build 👷 great things together! ✨
