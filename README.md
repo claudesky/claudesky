@@ -11,7 +11,7 @@ Some of my favorite things are;
 - [Arch Linux](https://archlinux.org/)
 - [Docker](https://www.docker.com/) and [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - [Laravel](https://laravel.com/)
-- [Vuejs](https://vuejs.org/)
+- [Vuejs](https://vuejs.org/) through [Nuxt](https://nuxt.com/)
 - [Git](https://git-scm.com/)
 
 Languages I am good at;
